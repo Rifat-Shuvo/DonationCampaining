@@ -14,7 +14,7 @@ const Singdoncard = ({donatecard}) => {
         if (!donatedItems) {
             addedDonatesArray.push(donatecard)
             localStorage.setItem('donated',JSON.stringify(addedDonatesArray))
-            // swal("Good job!", "You sucessfully added your donation!", "success");
+            swal("Great job!", "You sucessfully added your donation!", "success");
             // alert('already added')
         } else {
 
@@ -23,7 +23,7 @@ const Singdoncard = ({donatecard}) => {
                 addedDonatesArray.push(...donatedItems,donatecard)
                 localStorage.setItem('donated',JSON.stringify(addedDonatesArray))
                 // alert('already added')
-                //  swal("Good job!", "You sucessfully added your donation!", "success")
+                 swal("Great job!", "You sucessfully added your donation!", "success")
             } 
             else {
                 swal("Ooopppss!", "You Allready Donated!", "error"); 
