@@ -16,7 +16,7 @@ const alldonation = useLoaderData()
 //console.log(alldonation);
     return (
         <>
-        {/* <Baanner></Baanner> */}
+        <Baanner></Baanner>
         <div className='mt-32 max-w-7xl mx-auto'>
             <Donate donate={alldonation}></Donate>
         </div>
