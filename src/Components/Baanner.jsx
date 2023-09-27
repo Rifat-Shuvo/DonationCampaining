@@ -12,7 +12,7 @@ const Baanner = () => {
         //     </div>
         // </div>
         <div className="h-[60vh] text-center grid bg-cover bg-[url('https://i.ibb.co/x1KRTKb/Rectangle-4281.png')]">
-            {/* <div className="col-start-1 row-start-1 bg-white bg-opacity-80 w-full h-full"></div> */}
+            <div className="col-start-1 row-start-1 bg-white bg-opacity-80 w-full h-full"></div>
             <div className="col-start-1 row-start-1 mx-auto my-auto">
                 <h1 className='text-4xl font-bold mb-7'>I Grow By Helping People In Need</h1>
                 <input type="text" placeholder='Search Here....' className='input input-bordered w-[420px]' />
