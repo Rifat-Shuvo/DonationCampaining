@@ -1,4 +1,4 @@
-#Some of the Important features of this projects
+# Some of the Important features of this projects
 
 *** The sites have easy to use and every card will be the clickaable
 
@@ -8,7 +8,9 @@
 
 *** This site is fully responsive. That's why in any device, this UI performs properly.
 
+# Technology: HTML, CSS, Javascript, React, Recharts, tailwind css, daisyui
 
+# Livesite link: https://general-judge.surge.sh/ 
 
 
 # React + Vite
