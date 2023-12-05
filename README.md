@@ -1,4 +1,4 @@
-# Some of the Important features of this projects
+# Some of the Important features of this projects (a-8)
 
 *** The sites have easy to use and every card will be the clickaable
 
@@ -7,6 +7,8 @@
 *** This site is fully interactive, And there have no complexity, That's why the site loaded super fast.
 
 *** This site is fully responsive. That's why in any device, this UI performs properly.
+
+*** The donation data is saved in the local storage & Shown in the pie chart form. 
 
 # Technology: HTML, CSS, Javascript, React, Recharts, tailwind css, daisyui
 
